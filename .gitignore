@@ -24,3 +24,9 @@ attached_assets/
 # Log files
 *.log
 .local/state/replit/workflow-logs/
+node_modules
+.env
+.next
+dist
+build
+.cache
